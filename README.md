@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
+I'm Shrutika, a Student and a Developer!
+
+- 🔭 I’m currently working on my coding skills.
+- 🌱 I’m currently learning Flutter for app development.
+- ⚡ Fun fact: I don't procastinate 😄
 <!--
 **shrutikahilale/shrutikahilale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
