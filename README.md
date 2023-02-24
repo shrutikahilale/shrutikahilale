@@ -4,6 +4,7 @@ I'm Shrutika, a Student and a Developer!
 
 - 🔭 I’m currently working on my coding skills by doing a "100 days of Code" by #Talent Battle.
 - ⚡ I'm learning Javascript to enhance my web development skills.
+- ✨ I even create desgins on Figma!!
 - 🌱 I've learned basic Flutter for app development.
 - 😄 Fun fact: I don't procastinate 😄
 <!--
