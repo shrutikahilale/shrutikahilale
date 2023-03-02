@@ -6,7 +6,6 @@ I'm Shrutika, a Student and a Developer!
 - ⚡ I'm learning Javascript to enhance my web development skills.
 - ✨ I even create designs on Figma!!
 - 🌱 I've learned basic Flutter for app development.
-- 😄 Fun fact: I don't procastinate 😄
 <!--
 **shrutikahilale/shrutikahilale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
