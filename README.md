@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 I'm Shrutika, a Student and a Developer!
-- 👩‍💻 I'm currently working at Bajaj Finserv Health as an SDET Intern. 
+- 👩‍💻 I'm currently working at Bajaj Finserv Health as an Intern. 
 - 🔭 I'm learning React.js to enhance my front-end web development skills.
 - ✨ I even create designs on Figma!!
 - 🌱 I've learned basic Flutter for app development.
