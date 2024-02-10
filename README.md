@@ -2,9 +2,9 @@
 
 I'm Shrutika, a Student and a Developer!
 - 👩‍💻 I'm currently working at Bajaj Finserv Health as an Intern. 
-- 🔭 I'm learning React.js to enhance my front-end web development skills.
+- 🌱 I've learned Flutter with Firebase for app development.
+- 🔭 I've learned React.js to explore my front-end web development skills.
 - ✨ I even create designs on Figma!!
-- 🌱 I've learned basic Flutter for app development.
 <!--
 **shrutikahilale/shrutikahilale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
