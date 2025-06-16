@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
-I'm Shrutika, a Student and a Developer!
+I'm Shrutika, a Developer!
+- I'm enthusiastic about Backend services and development, picked up SpringBooooot💪🏻
 - 👩‍💻 I'm currently working at Bajaj Finserv Health.
 - 🌱 I've learned Flutter with Firebase for app development.
 - 🔭 I've learned React.js to explore my front-end web development skills.
